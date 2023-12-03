@@ -1,3 +1,6 @@
+!pip install tensorflow
+!pip install opencv-python
+!pip install PIL
 import tensorflow as tf
 import streamlit as st
 import cv2
